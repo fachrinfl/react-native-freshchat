@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webkit:android-jsc-r174650">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/386afeb0b3af4e52b7f15c6cfe24a6d326c87d8f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/386afeb0b3af4e52b7f15c6cfe24a6d326c87d8f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

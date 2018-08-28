@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReactNativeFreshchat</string>
+    <string name="freshchat_file_provider_authority">com.reactnativefreshchat.provider</string>
+</resources>

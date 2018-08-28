@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-base-11.8.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/3b91fc988d9a1d53e85da4f39fb599dc0f1fa944/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3b91fc988d9a1d53e85da4f39fb599dc0f1fa944/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
