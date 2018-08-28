@@ -60,7 +60,7 @@ protected List<ReactPackage> getPackages() {
 }
 ```
 
-## 3. Running Project
+## 3. Running
 ```aidl
 react-native run-android
 ```
